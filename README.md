@@ -17,12 +17,11 @@ The **Customer Satisfaction Prediction App** is a **Streamlit-based web applicat
 ## 🏗️ Project Structure
 ```
 📦 Customer-Satisfaction-Prediction
- ┣ 📂 models        # Pre-trained ML models (Keras/TensorFlow)
- ┣ 📂 data          # Sample datasets
- ┣ 📂 scripts       # Data preprocessing scripts
- ┣ 📜 app.py        # Main Streamlit web app
- ┣ 📜 requirements.txt  # Dependencies
- ┣ 📜 README.md     # Documentation
+ ┣ 📂 Data Sets        # Pre-trained ML models (Keras/TensorFlow)
+ ┣ 📂 Document         # Sample datasets
+ ┣ 📂 Notebook         # Data preprocessing scripts
+ ┣ 📂 Streamlit        # Data preprocessing scripts
+ ┣ 📜 README.md        # Documentation
 ```
 
 ## 🔧 Installation & Setup
