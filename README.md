@@ -1,4 +1,4 @@
-# 📊 Customer Satisfaction Prediction App
+# 📊 Customer Satisfaction Prediction
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
